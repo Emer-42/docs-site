@@ -1,6 +1,6 @@
 # Configuration
 
-Pocket Timer reads `~/.pocket.toml` when it starts. Every key is optional.
+Pocket Timer reads `~/.pocket.toml` when it starts. Every key is optional. For the terms used below, see the glossary entries for [session](glossary.md#session) and [daily goal](glossary.md#daily-goal).
 
 ## Session length
 
